@@ -25,8 +25,8 @@ Un auto-clicker avancé avec système anti-détection pour contourner les protec
 ### Installation rapide
 ```bash
 # Cloner le repository
-git clone https://github.com/votre-username/auto-clicker-pro.git
-cd auto-clicker-pro
+git clone https://github.com/Shino974/AutoClicker-Pro
+cd AutoClicker-Pro
 
 # Installer les dépendances
 pip install -r requirements.txt
