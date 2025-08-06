@@ -7,7 +7,6 @@ Gestionnaire de langues pour Auto Clicker Pro
 Ce module gère la traduction et le changement de langue de l'application.
 """
 
-
 class LanguageManager:
     """
     Gestionnaire de langues pour l'application.
