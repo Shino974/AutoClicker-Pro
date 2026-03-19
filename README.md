@@ -143,6 +143,7 @@ Cet outil est destiné à des fins éducatives et de test. L'utilisation dans de
 **Shino974**
 - Email: theotrp.pro@gmail.com
 - GitHub: [@Shino974](https://github.com/Shino974)
+- Site [site personnel](https://theoturpin.fr)
 
 ## 🙏 Remerciements
 
